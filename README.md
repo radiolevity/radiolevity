@@ -1,3 +1,3 @@
 # radiolevity
 
-Workspace for [@finnsjames](https://github.com/finnjames).
+Workspace for [@finnjames](https://github.com/finnjames).
